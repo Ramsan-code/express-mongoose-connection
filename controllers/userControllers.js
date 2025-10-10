@@ -1,4 +1,3 @@
-import express from "express";
 import User from "../models/users.js";
 
 export const getUsers = async (req, res) => {
